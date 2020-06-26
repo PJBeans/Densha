@@ -1,0 +1,3 @@
+Place this folder in /usr/share/icons
+
+NOTE: While the folder says 64x64, these icons are not all that size. Will be fixed.
