@@ -6,7 +6,7 @@ This DE is considered in Alpha. Don't use it except for dev purposes!
 Folders:
 
 - `main`: The top panel application. This should be renamed at some point.
-- `dock`: The bottom dock application.
+- `dock`: The bottom dock application. Includes app launcher.
 - `Settings`: The Densha Settings application.
 
 Compiling:
